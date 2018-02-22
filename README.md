@@ -1,0 +1,2 @@
+# InitStructAndClass
+swift InitStructAndClass Practice
